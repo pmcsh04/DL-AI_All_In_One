@@ -1,1 +1,3 @@
-# DL-AI_All_In_One
+# study
+
+### DL/AI 공부
